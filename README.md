@@ -1,6 +1,6 @@
 #
-**Name**: Kunj Maheshwari
-**Registration Number**: 21BCE11269c
+**Name**: Kunj Maheshwari and 
+**Registration Number**: 21BCE11269
 
 # Turn-based Chess-like Game with Websocket Communication
 
